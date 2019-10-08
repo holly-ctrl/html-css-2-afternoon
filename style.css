@@ -1,0 +1,41 @@
+body {
+    height: 200vh;
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+    height: 100px;
+    width: 10vh;
+    justify-content: space-between;
+    position: fixed;
+    align-items: flex-end; 
+}
+
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+li {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 30vh;
+}
+
+.suscribe {
+    background-color: rgb(255,0,99);
+    height: 25px;
+}
+
+main {
+    display: flex;
+    position: relative;
+    top: 100px;
+    left: 100px;
+    background-color: rgb(255,227,234);
+    height: 100vh;
+}
