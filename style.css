@@ -11,6 +11,15 @@ header {
     position: fixed;
     align-items: flex-end; 
 }
+h1 {
+    font-family: 'Roboto', sans-serif;
+}
+
+h4 {
+    font-family: 'Roboto', sans-serif;
+}
+
+
 
 nav {
     display: flex;
